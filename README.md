@@ -4,7 +4,7 @@ An api which scan the email body and look for given confidential words.
 
 ## How to start the server
 
-Run the executable file to start the server. You can create the executable file by running `make` command inside the root directory or you can download it to the Github release.
+Run the executable file to start the server. You can create the executable file by running `make` command inside the root directory or you can download it to the [Github release](https://github.com/paultianan/Email-Filter/releases).
 
 ### For Windows
 For windows, download the `email-scan.exe` and double click it. It will going to open up a terminal and you will see a `Listening and serving HTTP on :8080`
